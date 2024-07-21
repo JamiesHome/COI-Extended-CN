@@ -2,7 +2,7 @@
 
 # CaptainOfCheats-zh
 
-Captain of Industry 的作弊Mod，这是基于原作者：@Keranik [COI-Extended](https://github.com/Keranik/COI-Extended "COI-Extended") 的中文汉化版本。它有一个作弊菜单，可以通过 F8 键或单击底部工具栏上最右侧的船轮图标来访问。
+Captain of Industry 的作弊Mod，这是基于原作者：@Keranik [COI-Extended](https://github.com/Keranik/COI-Extended "COI-Extended") 的中文汉化版本。它有一个作弊菜单，可以通过底部工具栏上最右侧的C图标来访问。
 ## 更新
 
 2024/07/21
